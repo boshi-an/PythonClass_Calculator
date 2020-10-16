@@ -1,0 +1,19 @@
+{
+	"files.associations": {
+		"iosfwd": "cpp",
+		"algorithm": "cpp",
+		"bitset": "cpp",
+		"memory": "cpp",
+		"optional": "cpp",
+		"map": "cpp",
+		"utility": "cpp",
+		"string": "cpp",
+		"__debug": "cpp",
+		"exception": "cpp",
+		"functional": "cpp",
+		"new": "cpp",
+		"stdexcept": "cpp",
+		"typeinfo": "cpp",
+		"iostream": "cpp"
+	}
+}
